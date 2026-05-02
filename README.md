@@ -1,33 +1,64 @@
+<!-- Header -->
+<div align="center">
 
+```
+// bioinformatics researcher
+```
 
-<h1 align="center">Hi 👋, I'm Glory</h1>
-<h3 align="center">💫 I'm a Medical Laboratory Scientist currently navigating the fascinating world of OMICS at the Centre for Proteomics and Genomics Research (CPGR).</h3>
+# Glory Bimoko
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glo-bimoko&label=Profile%20views&color=0e75b6&style=flat" alt="glo-bimoko" /> </p>
+*BIO*informatics & multi-*OMICS* enthusiast exploring the intersection of **biology, AI, and computation.**
 
-- 📝 I regularly write on [https://glo-bimoko.github.io/](https://glo-bimoko.github.io/)
+> Building reproducible genomics workflows while documenting my self-learning journey in bioinformatics and research.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/glory-bimoko-2621311b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/glory-bimoko-2621311b3/](https://www.linkedin.com/in/glory-bimoko-2621311b3/)" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glo-bimoko&show_icons=true&locale=en&layout=compact" alt="glo-bimoko" /></p>
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glory-bimoko-2621311b3/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@InSilico-Labs) 
-
-
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Glo-Bimoko&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> about`
+
+I work at the intersection of **genomics**, **machine learning**, and **laboratory science** — turning complex biological data into reproducible, shareable pipelines.
+
+Currently building tools for multi-omics analysis, AI-assisted bioinformatics learning, and lab automation. I share what I learn through my blog and YouTube channel.
+
+---
+
+## `> stack`
+
+![Python](https://img.shields.io/badge/Python-0a0f0a?style=flat-square&logo=python&logoColor=3db84a)
+![R](https://img.shields.io/badge/R-0a0f0a?style=flat-square&logo=r&logoColor=3db84a)
+![Nextflow](https://img.shields.io/badge/Nextflow-0a0f0a?style=flat-square&logo=nextflow&logoColor=3db84a)
+![Bioconda](https://img.shields.io/badge/Bioconda-0a0f0a?style=flat-square&logo=anaconda&logoColor=3db84a)
+![Bash](https://img.shields.io/badge/Bash-0a0f0a?style=flat-square&logo=gnubash&logoColor=3db84a)
+![Linux](https://img.shields.io/badge/Linux-0a0f0a?style=flat-square&logo=linux&logoColor=3db84a)
+![Git](https://img.shields.io/badge/Git-0a0f0a?style=flat-square&logo=git&logoColor=3db84a)
+
+---
+
+## `> projects`
+
+| Project | Description | Tags |
+|--------|-------------|------|
+| [**H3AFlow**](https://github.com/Glo-Bimoko/H3Aflow) | Reproducible genomics pipeline built with Nextflow for H3Africa-aligned workflows. | `Nextflow` `Genomics` |
+| [**Axiom Similarity**](https://github.com/Glo-Bimoko/Axiom_similarity) | Similarity analysis toolkit for axiom-based biological data interpretation. | `Python` `Analysis` |
+| **GenoSync Health** | Genomics-driven health data integration and synchronisation platform. | `Multi-omics` `Health` |
+| **Hamilton STAR Workflow** | Laboratory automation & data workflows for Hamilton STAR liquid handlers. | `Lab Automation` `Python` |
+| **AI Bioinformatics Journey** | Documenting my self-taught path through bioinformatics using AI as a learning tool. | `AI` `Learning` |
+
+---
+
+## `> connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=3db84a)](https://za.linkedin.com/in/glory-bimoko-2621311b3?trk=public_post_feed-actor-name)
+[![YouTube](https://img.shields.io/badge/YouTube-0a0f0a?style=for-the-badge&logo=youtube&logoColor=3db84a)](https://www.youtube.com/@Glorybimoko)
+[![Blog](https://img.shields.io/badge/Blog-0a0f0a?style=for-the-badge&logo=githubpages&logoColor=3db84a)](https://glo-bimoko.github.io/)
+
+---
+
+<div align="center">
+
+```
+// turning genomic data into biological insight · cape town, za
+```
+
+</div>
