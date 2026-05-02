@@ -17,7 +17,7 @@
 
 ## `> about`
 
-I work at the intersection of **genomics**, **machine learning**, and **laboratory science** — turning complex biological data into reproducible, shareable pipelines.
+I work at the intersection of **genomics**, **machine learning**, and **laboratory science**. Turning complex biological data into reproducible, shareable pipelines.
 
 Currently building tools for multi-omics analysis, AI-assisted bioinformatics learning, and lab automation. I share what I learn through my blog and YouTube channel.
 
