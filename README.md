@@ -9,7 +9,7 @@
 
 *BIO*informatics & multi-*OMICS* enthusiast exploring the intersection of **biology, AI, and computation.**
 
-> Building reproducible genomics workflows while documenting my self-learning journey in bioinformatics and research.
+> Building reproducible genomics workflows while documenting my journey in bioinformatics and research.
 
 </div>
 
